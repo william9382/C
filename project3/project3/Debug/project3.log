@@ -1,0 +1,18 @@
+﻿生成启动时间为 2023/2/20 11:06:35。
+     1>项目“C:\Users\谨旭\Desktop\c语言\project3\project3\project3.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\project3.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         D:\c语言\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt ..\test.c
+         test.c
+     1>c:\users\谨旭\desktop\c语言\project3\test.c(14): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>c:\users\谨旭\desktop\c语言\project3\test.c(15): error C2065: “pb”: 未声明的标识符
+     1>c:\users\谨旭\desktop\c语言\project3\test.c(15): error C2100: 非法的间接寻址
+     1>c:\users\谨旭\desktop\c语言\project3\test.c(15): error C2224: “.price”的左侧必须具有结构/联合类型
+     1>c:\users\谨旭\desktop\c语言\project3\test.c(16): error C2065: “pb”: 未声明的标识符
+     1>c:\users\谨旭\desktop\c语言\project3\test.c(16): error C2223: “->price”的左侧必须指向结构/联合
+     1>已完成生成项目“C:\Users\谨旭\Desktop\c语言\project3\project3\project3.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.23
